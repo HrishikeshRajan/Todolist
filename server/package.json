@@ -12,7 +12,7 @@
   "scripts": {
     "dev": "nodemon --watch \"src/**\" --ext \"json,ts\" --exec \"ts-node src/index.ts\"",
     "build": "tsc",
-    "start": "node dist/app.js"
+    "start": "node dist/indx.js"
   },
   "devDependencies": {
     "nodemon": "^3.0.1",
